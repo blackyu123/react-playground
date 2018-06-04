@@ -1,0 +1,18 @@
+.reddit-cards .card {
+    margin-bottom: 20px;
+}
+
+.reddit-cards .card .img-wrap {
+    background: #eee;
+    height: 125px;
+    overflow: hidden;
+}
+
+.reddit-cards .card-title {
+    font-size: 1rem;
+}
+
+.reddit-cards .card-subtitle {
+    font-size: 0.8rem;
+    color: #888;
+}
